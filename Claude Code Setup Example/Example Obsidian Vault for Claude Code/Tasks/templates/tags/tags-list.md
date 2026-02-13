@@ -1,0 +1,34 @@
+
+**Claude should analyze all new tasks and assign any of the following tags that are appropriate**
+## TAGS List: 
+- Website
+	- Bug
+	- Content Updates
+		- Content: Homepage
+		- Content: Landing Page
+		- Content: CMS Block
+	- Product Data
+		- Custom Size Data
+		- Custom Color File Update
+	- Feature Request
+	- Functionality Update
+	- Upgrade
+	- Integration
+		- ERP
+		- PIM
+		- Klaviyo
+		- Analytics
+- HR / Employee
+- Cross-Functional
+	- Customer Service (CS)
+	- Merchandising (Merch)
+	- Marketing (Mktg)
+	- Marketplaces (Mkt)
+	- Inventory & Planning (INV)
+	- Back Office (BO)
+	- ERP
+	- Wizcommerce POS (WIZ)
+- Reporting
+- Presentation / Deck
+- Requirements Document / PRD
+- User Story
